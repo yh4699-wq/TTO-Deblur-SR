@@ -19,8 +19,8 @@ Our current framework investigates:
 - test-time optimization for deblurring
 - test-time optimization for super-resolution
 - adaptive reconstruction objectives
-- structure-aware restoration constraints
-- image-specific optimization at inference time
+- structure aware restoration constraints
+- image specific optimization at inference time
 
 Full technical details will be provided in the paper.
 
