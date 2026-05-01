@@ -28,6 +28,8 @@ Full technical details will be provided in the paper.
 
 Qualitative examples will be added soon.
 
+Full code, experimental settings, and additional results will be released after the paper is publicly available.
+
 ## Release Plan
 
 - [x] Project page
