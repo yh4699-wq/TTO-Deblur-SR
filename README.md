@@ -18,8 +18,8 @@ Image restoration models often suffer from performance drops when test-time degr
 Our current framework investigates:
 - test-time optimization for deblurring
 - test-time optimization for super-resolution
-- spatially weighted reconstruction objectives
-- edge-aware restoration constraints
+- adaptive reconstruction objectives
+- structure-aware restoration constraints
 - image-specific optimization at inference time
 
 Full technical details will be provided in the paper.
